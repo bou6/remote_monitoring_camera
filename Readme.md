@@ -1,6 +1,6 @@
 ## Description
 The project creates a small web server that opens a camera interface and make the video available online.
-It could be handy to control your baby if you are not at home or 
+It could be handy to control your baby if you are not at home or ...
 
 ## To export the requirements
 pip freeze > requirements.txt
